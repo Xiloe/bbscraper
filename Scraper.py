@@ -8,14 +8,6 @@ from bs4 import BeautifulSoup
 from colorama import Back, Fore, Style, deinit, init
 
 init()
-
-def Check():
-    pass
-
-def Scrap():
-    pass
-
-os.system("cls")
 print(Fore.CYAN + Style.NORMAL)
 print("▄▄▄▄· ▄▄▄▄· .▄▄ ·  ▄▄· ▄▄▄   ▄▄▄·  ▄▄▄·▄▄▄ .▄▄▄  ")
 print("▐█ ▀█▪▐█ ▀█▪▐█ ▀. ▐█ ▌▪▀▄ █·▐█ ▀█ ▐█ ▄█▀▄.▀·▀▄ █·")
